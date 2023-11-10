@@ -2,7 +2,7 @@ import "./munCSS.css";
 
 function KolmasKomponentti() {
     let jee = "yeehaw!!";
-    let koe = 123123;
+    let koe = 12312356789;
 
     return (
         <h4
