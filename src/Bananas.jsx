@@ -1,4 +1,4 @@
-import { KolmasKomponentti as KolomasKompostori } from "./KolmasKomponentti";
+import KolmasKomponentti from "./KolmasKomponentti";
 
 function pienellä() {
     return "oon perus funktio";
@@ -25,7 +25,7 @@ function Banaani() {
         <>
             <Isolla />
             <TokaKomponentti />
-            <KolomasKompostori />
+            <KolmasKomponentti />
         </>
     );
 }
